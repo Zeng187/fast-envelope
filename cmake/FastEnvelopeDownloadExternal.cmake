@@ -76,7 +76,7 @@ endfunction()
 function(fast_envelope_download_geogram)
     fast_envelope_download_project(geogram
         GIT_REPOSITORY  https://github.com/polyfem/geogram.git
-        GIT_TAG        516c151c244d9019a9076a1a468d52a0f6dd195d
+        GIT_TAG        3191ff581d4087ebddff735a21bf3ca2415f53be
     )
 endfunction()
 
